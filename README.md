@@ -1,14 +1,14 @@
 # FlaskBook
 This is a Small Social Networking website developed using Flask and Peewee. It uses Jinja-2 templating engine. 
 
-#Requirements:
+### Requirements:
 Packages: flask, peewee, flask-login, flask-bcrypt, flask-wtf
 Python version: >= 2.7
 
-#Platform Specification
+### Platform Specification
 Runs on Mac OSX, Windows, Linux.
 
-#Installation
+### Installation
 fork the github [Repository.](https://github.com/maansisrivastava/FlaskBook) 
 
 1. Install dependencies
